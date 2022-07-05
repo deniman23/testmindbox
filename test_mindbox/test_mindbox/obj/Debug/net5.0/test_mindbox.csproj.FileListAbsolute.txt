@@ -1,0 +1,16 @@
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/bin/Debug/net5.0/test_mindbox
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/bin/Debug/net5.0/test_mindbox.deps.json
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/bin/Debug/net5.0/test_mindbox.runtimeconfig.json
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/bin/Debug/net5.0/test_mindbox.runtimeconfig.dev.json
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/bin/Debug/net5.0/test_mindbox.dll
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/bin/Debug/net5.0/test_mindbox.pdb
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/obj/Debug/net5.0/test_mindbox.csproj.AssemblyReference.cache
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/obj/Debug/net5.0/test_mindbox.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/obj/Debug/net5.0/test_mindbox.AssemblyInfoInputs.cache
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/obj/Debug/net5.0/test_mindbox.AssemblyInfo.cs
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/obj/Debug/net5.0/test_mindbox.csproj.CoreCompileInputs.cache
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/obj/Debug/net5.0/test_mindbox.dll
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/obj/Debug/net5.0/refint/test_mindbox.dll
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/obj/Debug/net5.0/test_mindbox.pdb
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/obj/Debug/net5.0/test_mindbox.genruntimeconfig.cache
+/Users/daniiltolkachev/Projects/test_mindbox/test_mindbox/obj/Debug/net5.0/ref/test_mindbox.dll
